@@ -1,0 +1,2 @@
+# -tradingview-bot
+T’émigrâmes 
