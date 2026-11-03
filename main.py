@@ -328,4 +328,4 @@ def analyze_market(symbol, name):
                 reasons.append("H1 and H4 aligned")
 
             # 3. RSI
-            if direction == "BUY
+            if direction == "BUY"
