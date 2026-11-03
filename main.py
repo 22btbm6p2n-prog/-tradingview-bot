@@ -329,3 +329,4 @@ def analyze_market(symbol, name):
 
             # 3. RSI
             if direction == "BUY":
+
